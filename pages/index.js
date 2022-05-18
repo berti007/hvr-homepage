@@ -73,7 +73,7 @@ const Page = () => {
                         I ♥
                     </Heading>
                     <Paragraph>
-                        Music, Playing Drums & Guitar & Bass & Keys, Machine Learning, Cyber Security
+                        Music (Playing Drums & Guitar & Bass & Keys), Flying, Machine Learning
                     </Paragraph>
                 </Section>
 
