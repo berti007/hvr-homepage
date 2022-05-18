@@ -11,7 +11,7 @@ const Writeup = () => (
       </Title>
       <P>
         Ah, the starting point of a new adventure. (See what I did there?!) Hack the Box, or short HTB, is a great place to
-        get started with penetration testing. But let's get right into it and start hacking.
+        get started with penetration testing. But lets get right into it and start hacking.
       </P>
       <br />
       <Heading as="h2" fontSize={20} mb={4}>
@@ -27,7 +27,7 @@ const Writeup = () => (
       <Question question="What tool do we use to interact with the operating system in order to start our VPN connection?" answer="Terminal" />
       <Question question="What service do we use to form our VPN connection?" answer="OpenVPN" />
       <Question question="What tool do we use to test our connection to the target?" answer="ping" />
-      <Question question="What is the name of the tool we use to scan the target's ports?" answer="nmap" />
+      <Question question="What is the name of the tool we use to scan the targets ports?" answer="nmap" />
       <Question question="What service do we identify on port 23/tcp during our scans?" answer="telnet" />
       <Question question="What username ultimately works with the remote management login prompt for the target?" answer="root" />
       <span>Last but not least the root flag, which was pretty easy this time:</span><br />
