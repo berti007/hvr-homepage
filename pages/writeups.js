@@ -4,7 +4,6 @@ import Section from "../components/section";
 import Layout from '../components/layouts/article';
 
 import thumbStartingPoint from '../public/images/writeups/startingpoint.png'
-import thumbNC from '../public/images/works/Nextcloud.png'
 import thumbPVE from '../public/images/works/Proxmox.png'
 
 const Writeups = () => {
